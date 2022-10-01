@@ -1,0 +1,3 @@
+-Agregue un par de setters y getters a algunas clases.
+-El método importar solo funciona para "Libro1.txt", por alguna rázon no me importa los datos de las ciudades, asi que dejalo como comentario esa funcion y no la llames, El metodo esta en la clase empresa.
+-Si quieres intentar ver el problema tienes que modificar la ruta donde estan los archivos, si no será imposible de abrir
