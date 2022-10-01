@@ -1,0 +1,12 @@
+Bus1;1/2/2000;Los Andes;12936;30
+Bus2;2/2/2000;Petorca;16995;30
+Bus3;3/2/2000;La Cruz;19884;30
+Bus4;4/2/2000;Quintana;17471;30
+Bus5;5/2/2000;Calera;12375;30
+Bus6;6/2/2000;Concon;6994;30
+Bus7;7/2/2000;Rancagua;10436;30
+Bus8;8/2/2000;Las Condes;10785;30
+Bus9;9/2/2000;Ayuto;20625;30
+Bus10;10/2/2000;Nashe;11373;30
+Bus11;11/2/2000;Puerto Montt;14649;30
+Bus12;12/2/2000;Portales;5443;30
