@@ -1,2 +1,0 @@
-Santiago,bus1,bus2
-Rancagua,bus1,bus2,bus3
