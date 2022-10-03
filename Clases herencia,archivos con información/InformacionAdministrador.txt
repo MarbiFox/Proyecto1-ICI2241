@@ -1,3 +1,0 @@
-Benjamin Diaz;123456789;BenjaminD@gmail.com;asdfghjkl
-Benjamin Fernandez;123456789;BenjaminF@gmail.com;qwertyuiop
-Thomas Molina;123456789;ThomasM@gmail.com;zxcvbnm
